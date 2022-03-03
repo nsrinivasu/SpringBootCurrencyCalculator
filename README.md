@@ -1,0 +1,2 @@
+# SpringBootCurrencyCalculator
+Springboot currency calculator
